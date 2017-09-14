@@ -7,3 +7,8 @@
   background-color: #db671a;
   border-color: #c6560b;
 }
+
+img {
+  max-width: 300px;
+  display: none;
+}
