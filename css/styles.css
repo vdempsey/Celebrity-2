@@ -8,7 +8,10 @@
   border-color: #c6560b;
 }
 
-#elon, #liz, #mike {
-  max-width: 300px;
+#elon, #liz, #mike, #unicorn {
   display: none;
+}
+
+img {
+  max-width: 300px;
 }
